@@ -1,0 +1,1 @@
+{"num_classes": 19, "class_names": ["action", "adventure", "animation", "comedy", "crime", "documentary", "drama", "family", "fantasy", "history", "horror", "music", "mystery", "romance", "science fiction", "thriller", "tv movie", "war", "western"], "max_tokens": 20000, "output_sequence_length": 100}
